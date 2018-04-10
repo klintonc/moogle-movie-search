@@ -1,0 +1,14 @@
+# Build output
+bin/
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+
+# Assignment spec
+*.pdf
+
+# OS
+.DS_Store
