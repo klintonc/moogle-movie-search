@@ -1,7 +1,7 @@
 import java.util.Map;
 
-// Name:
-// Section: 
+// Name: Klinton Chhun
+// Section: 1
 
 public class Rating {
 	public Movie m;
@@ -11,8 +11,10 @@ public class Rating {
 	
 	
 	public Rating(User _u, Movie _m, double _rating, long _timestamp) {
-		
-		// YOUR CODE GOES HERE
+		u = _u;
+		m = _m;
+		rating = _rating;
+		timestamp = _timestamp;
 	}
 	
 	
